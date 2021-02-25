@@ -17,10 +17,21 @@ Google原始中文词表
 
 ### QA
 #### english
-SQuAD
-TriviaQA
+CLUE benchmark
 google, Natural Questions: a Benchmark for Question Answering Research
 
 #### chinese
 哈工大、讯飞CMRC
 DRCD
+
+### cls
+CLUE benchmark
+清华大学开源的文本分类数据集THUCTC<br>
+
+### key words
+
+### 阅读理解
+
+### sentence relation
+
+
