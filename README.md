@@ -1,9 +1,12 @@
 # nlp
 
 
-
-
-
+## pretrain models
+### chinese
+[腾讯UER](https://github.com/dbiir/UER-py/blob/master/README_ZH.md)<br>
+[CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels)<br>
+[Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
+[google](https://github.com/google-research/bert)<br>
 
 ## database
 ### dict
