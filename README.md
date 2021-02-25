@@ -1,8 +1,20 @@
 # nlp
 
-## QA
 
-### database
+
+
+
+
+## database
+### dict
+CLUECorpus2020
+Google原始中文词表
+
+
+### pretrain 
+[CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020)<br>
+
+### QA
 #### english
 SQuAD
 TriviaQA
