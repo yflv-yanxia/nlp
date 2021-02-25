@@ -28,6 +28,21 @@ DRCD
 CLUE benchmark
 清华大学开源的文本分类数据集THUCTC<br>
 
+### ner
+#### english
+Ontonotes release 4.0/5.0
+
+#### chinese
+MSRA, Word segmentation and named entity recognition<br>
+Weibo NER, recognition for Chinese social media with jointly trained embeddings<br>
+Ontonotes release 4.0/5.0<br>
+
+
+## labeling tools
+YEDDA<br>
+
+
+
 ### key words
 
 ### 阅读理解
