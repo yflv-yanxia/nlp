@@ -13,6 +13,7 @@ Google原始中文词表
 
 ### pretrain 
 [CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020)<br>
+[brightmart](https://github.com/brightmart/nlp_chinese_corpus)<br>
 
 ### QA
 #### english
