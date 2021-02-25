@@ -39,7 +39,7 @@ MSRA, Word segmentation and named entity recognition<br>
 Weibo NER, recognition for Chinese social media with jointly trained embeddings<br>
 Ontonotes release 4.0/5.0<br>
 [BosonNLP_NER_6C](https://bosonnlp.com/resources/BosonNLP_NER_6C.zip)<br>
-CCKS2017/2018/2019/2020电子病历实体标注<br>
+[CCKS2017/2018/2019/2020电子病历实体标注](https://www.biendata.com/competition/ccks_2020_2_1/)<br>
 
 
 ## labeling tools
