@@ -14,6 +14,8 @@ Google原始中文词表
 ### pretrain 
 [CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020)<br>
 [brightmart](https://github.com/brightmart/nlp_chinese_corpus)<br>
+人民日报1998版本<br>
+人民日报2014版本<br>
 
 ### QA
 #### english
@@ -36,6 +38,8 @@ Ontonotes release 4.0/5.0
 MSRA, Word segmentation and named entity recognition<br>
 Weibo NER, recognition for Chinese social media with jointly trained embeddings<br>
 Ontonotes release 4.0/5.0<br>
+[BosonNLP_NER_6C](https://bosonnlp.com/resources/BosonNLP_NER_6C.zip)<br>
+CCKS2017/2018/2019/2020电子病历实体标注<br>
 
 
 ## labeling tools
