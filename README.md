@@ -3,6 +3,7 @@
 
 ## pretrain models
 ### chinese
+#### bert
 [腾讯UER](https://github.com/dbiir/UER-py/blob/master/README_ZH.md)<br>
 [CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels)<br>
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
