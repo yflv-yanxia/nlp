@@ -21,6 +21,11 @@ Google原始中文词表
 人民日报1998版本<br>
 人民日报2014版本<br>
 
+
+### CLUE
+[中文医疗信息处理挑战榜CBLUE](https://tianchi.aliyun.com/specials/promotion/2021chinesemedicalnlpleaderboardchallenge), [database](https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414)<br>
+
+
 ### QA
 #### english
 CLUE benchmark
