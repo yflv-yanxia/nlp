@@ -58,7 +58,12 @@ YEDDA<br>
 
 ### key words
 
-### 阅读理解
+### Machine Reading Comprehension
+[DCMN+: Dual co-matching network for multi-choice reading comprehension](https://ojs.aaai.org/index.php/AAAI/article/view/6502) -cloudwalk, AAAI2020<br>
+[Dual co-matching network for multi-choice reading comprehension](https://arxiv.org/abs/1901.09381) -cloudwalk, arxiv2019<br>
+[Option comparison network for multiple-choice reading comprehension](https://arxiv.org/abs/1903.03033) -tencent, arxiv2019<br>
+[Neural Machine Reading Comprehension: Methods and Trends](https://www.mdpi.com/2076-3417/9/18/3698) -S Liu, AppliedSciences2019<br>
+[Applying deep learning to answer selection: A study and an open task](https://ieeexplore.ieee.org/abstract/document/7404872) -IBM, ASRU2015<br>
 
 ### sentence relation
 
