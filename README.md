@@ -59,6 +59,7 @@ YEDDA<br>
 ### key words
 
 ### Machine Reading Comprehension
+[DUMA: Reading Comprehension with Transposition Thinking](https://arxiv.org/abs/2001.09415) -huawei, arxiv2020<br>
 [DCMN+: Dual co-matching network for multi-choice reading comprehension](https://ojs.aaai.org/index.php/AAAI/article/view/6502) -cloudwalk, AAAI2020<br>
 [Dual co-matching network for multi-choice reading comprehension](https://arxiv.org/abs/1901.09381) -cloudwalk, arxiv2019<br>
 [Option comparison network for multiple-choice reading comprehension](https://arxiv.org/abs/1903.03033) -tencent, arxiv2019<br>
