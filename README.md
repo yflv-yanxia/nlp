@@ -15,6 +15,7 @@
 [Improving Machine Reading Comprehension with Single-choice Decision and Transfer Learning](https://arxiv.org/abs/2011.03292) -tencent, arxiv2020<br>
 [DUMA: Reading Comprehension with Transposition Thinking](https://arxiv.org/abs/2001.09415) -huawei, arxiv2020<br>
 [DCMN+: Dual co-matching network for multi-choice reading comprehension](https://ojs.aaai.org/index.php/AAAI/article/view/6502) -cloudwalk, AAAI2020<br>
+[Albert: A lite bert for self-supervised learning of language representations](https://arxiv.org/abs/1909.11942) -google, ICLR2020<br>
 [Dual co-matching network for multi-choice reading comprehension](https://arxiv.org/abs/1901.09381) -cloudwalk, arxiv2019<br>
 [Option comparison network for multiple-choice reading comprehension](https://arxiv.org/abs/1903.03033) -tencent, arxiv2019<br>
 [Neural Machine Reading Comprehension: Methods and Trends](https://www.mdpi.com/2076-3417/9/18/3698) -S Liu, AppliedSciences2019<br>
