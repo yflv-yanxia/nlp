@@ -12,6 +12,7 @@
 ## key words
 
 ## Machine Reading Comprehension
+[Improving Machine Reading Comprehension with Single-choice Decision and Transfer Learning](https://arxiv.org/abs/2011.03292) -tencent, arxiv2020<br>
 [DUMA: Reading Comprehension with Transposition Thinking](https://arxiv.org/abs/2001.09415) -huawei, arxiv2020<br>
 [DCMN+: Dual co-matching network for multi-choice reading comprehension](https://ojs.aaai.org/index.php/AAAI/article/view/6502) -cloudwalk, AAAI2020<br>
 [Dual co-matching network for multi-choice reading comprehension](https://arxiv.org/abs/1901.09381) -cloudwalk, arxiv2019<br>
