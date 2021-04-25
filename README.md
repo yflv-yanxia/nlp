@@ -1,16 +1,5 @@
 # nlp
 
-
-## pretrain models
-### chinese
-#### bert
-[腾讯UER](https://github.com/dbiir/UER-py/blob/master/README_ZH.md)<br>
-[CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels)<br>
-[Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
-[google](https://github.com/google-research/bert)<br>
-
-## key words
-
 ## Machine Reading Comprehension
 [Improving Machine Reading Comprehension with Single-choice Decision and Transfer Learning](https://arxiv.org/abs/2011.03292) -tencent, arxiv2020<br>
 [DUMA: Reading Comprehension with Transposition Thinking](https://arxiv.org/abs/2001.09415) -huawei, arxiv2020<br>
@@ -41,7 +30,16 @@ Ontonotes release 4.0/5.0<br>
 [XGLUE](https://huggingface.co/datasets/viewer/?dataset=xglue)<br>
 [CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020)<br>
 
-
+### pretrain models
+[baidu/ERNIE](https://github.com/PaddlePaddle/ERNIE)<>
+[baidu/lac](https://github.com/baidu/lac)<br>
+[HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp)<br>
+[spacy](https://spacy.io/)<br>
+[stanza](https://stanfordnlp.github.io/stanza/)
+[腾讯UER](https://github.com/dbiir/UER-py/blob/master/README_ZH.md)<br>
+[CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels)<br>
+[Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
+[google](https://github.com/google-research/bert)<br>
 
 
 
