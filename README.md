@@ -31,11 +31,11 @@ Ontonotes release 4.0/5.0<br>
 [CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020)<br>
 
 ### pretrain models
-[baidu/ERNIE](https://github.com/PaddlePaddle/ERNIE)<>
+[baidu/ERNIE](https://github.com/PaddlePaddle/ERNIE)<br>
 [baidu/lac](https://github.com/baidu/lac)<br>
 [HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp)<br>
 [spacy](https://spacy.io/)<br>
-[stanza](https://stanfordnlp.github.io/stanza/)
+[stanza](https://stanfordnlp.github.io/stanza/)<br>
 [腾讯UER](https://github.com/dbiir/UER-py/blob/master/README_ZH.md)<br>
 [CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels)<br>
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
