@@ -5,6 +5,7 @@
 [hyperscan]<br>
 [QRegExp]<br>
 [python.re]<br>
+[PCRE]<br>
 
 ## LAC
 
