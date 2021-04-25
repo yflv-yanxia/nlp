@@ -28,6 +28,21 @@
 [ARC]<br>
 [CoQA]<br>
 
+## NER
+
+### database
+Ontonotes release 4.0/5.0<br>
+[MSRA, Word segmentation and named entity recognition](https://huggingface.co/datasets/viewer/?dataset=msra_ner)<br>
+[Weibo NER, recognition for Chinese social media with jointly trained embeddings](https://huggingface.co/datasets/viewer/?dataset=weibo_ner)<br>
+[人民日报](https://huggingface.co/datasets/viewer/?dataset=peoples_daily_ner)<br>
+[BosonNLP_NER_6C](https://bosonnlp.com/resources/BosonNLP_NER_6C.zip)<br>
+[CCKS2017/2018/2019/2020电子病历实体标注](https://www.biendata.com/competition/ccks_2020_2_1/)<br>
+
+
+
+
+
+
 ## sentence relation
 
 ## database
@@ -60,16 +75,7 @@ DRCD
 CLUE benchmark
 清华大学开源的文本分类数据集THUCTC<br>
 
-### ner
-#### english
-Ontonotes release 4.0/5.0
 
-#### chinese
-MSRA, Word segmentation and named entity recognition<br>
-Weibo NER, recognition for Chinese social media with jointly trained embeddings<br>
-Ontonotes release 4.0/5.0<br>
-[BosonNLP_NER_6C](https://bosonnlp.com/resources/BosonNLP_NER_6C.zip)<br>
-[CCKS2017/2018/2019/2020电子病历实体标注](https://www.biendata.com/competition/ccks_2020_2_1/)<br>
 
 
 ## labeling tools
