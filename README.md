@@ -1,5 +1,22 @@
 # nlp
 
+## RE
+[Boost.Regex]<br>
+[hyperscan]<br>
+[QRegExp]<br>
+[python.re]<br>
+
+## LAC
+
+### pretrain models
+[thulac]<br>
+[baidu/lac]<br>
+[HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp)<br>
+[spacy](https://spacy.io/)<br>
+[stanza](https://stanfordnlp.github.io/stanza/)<br>
+[hanlp]<br>
+
+
 ## Machine Reading Comprehension
 [Improving Machine Reading Comprehension with Single-choice Decision and Transfer Learning](https://arxiv.org/abs/2011.03292) -tencent, arxiv2020<br>
 [DUMA: Reading Comprehension with Transposition Thinking](https://arxiv.org/abs/2001.09415) -huawei, arxiv2020<br>
@@ -41,11 +58,7 @@ Ontonotes release 4.0/5.0<br>
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
 [google](https://github.com/google-research/bert)<br>
 
-## RE
-[Boost.Regex]<br>
-[hyperscan]<br>
-[QRegExp]<br>
-[python.re]<br>
+
 
 
 ## sentence relation
