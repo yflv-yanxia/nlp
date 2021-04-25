@@ -6,7 +6,7 @@
 [QRegExp-c++]<br>
 [re-python]<br>
 [PCRE]<br>
-[google/re2-go/python]<br>
+[google/re2-c++/go/python]<br>
 
 ## LAC
 
