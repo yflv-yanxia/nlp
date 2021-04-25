@@ -41,7 +41,11 @@ Ontonotes release 4.0/5.0<br>
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
 [google](https://github.com/google-research/bert)<br>
 
-
+## RE
+[Boost.Regex]<br>
+[hyperscan]<br>
+[QRegExp]<br>
+[python.re]<br>
 
 
 ## sentence relation
