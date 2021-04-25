@@ -1,11 +1,12 @@
 # nlp
 
 ## RE
-[Boost.Regex]<br>
-[hyperscan]<br>
-[QRegExp]<br>
-[python.re]<br>
+[Boost.Regex-c++]<br>
+[hyperscan-c++/python]<br>
+[QRegExp-c++]<br>
+[re-python]<br>
 [PCRE]<br>
+[google/re2-go/python]<br>
 
 ## LAC
 
