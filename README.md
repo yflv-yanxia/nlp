@@ -5,7 +5,7 @@
 [hyperscan-c++/python], a large number of regular expressions<br>
 [QRegExp-c++]<br>
 [re-python]<br>
-[PCRE]<br>
+[PCRE/PCRE++-perl/c++]<br>
 [google/re2-c++/go/python], a large number of regular expressions<br>
 [comparision](https://en.wikipedia.org/wiki/Comparison_of_regular-expression_engines)<br>
 
