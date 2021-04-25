@@ -2,11 +2,11 @@
 
 ## RE
 [Boost.Regex-c++]<br>
-[hyperscan-c++/python]<br>
+[hyperscan-c++/python], a large number of regular expressions<br>
 [QRegExp-c++]<br>
 [re-python]<br>
 [PCRE]<br>
-[google/re2-c++/go/python]<br>
+[google/re2-c++/go/python], a large number of regular expressions<br>
 
 ## LAC
 
