@@ -39,6 +39,7 @@ Ontonotes release 4.0/5.0<br>
 [CCKS2017/2018/2019/2020电子病历实体标注](https://www.biendata.com/competition/ccks_2020_2_1/)<br>
 [WikiANN/PAN-X](https://huggingface.co/datasets/viewer/?dataset=wikiann)<br>
 [XGLUE](https://huggingface.co/datasets/viewer/?dataset=xglue)<br>
+[CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020)<br>
 
 
 
