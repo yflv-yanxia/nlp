@@ -2,7 +2,7 @@
 
 ## RE
 [std::regex/Boost.Regex-c++]<br>
-[hyperscan-c++/python], a large number of regular expressions<br>
+[hyperscan-c++/python], a large number of regular expressions, only for x86<br>
 [QRegExp-c++]<br>
 [re-python]<br>
 [PCRE/PCRE++-perl/c++]<br>
