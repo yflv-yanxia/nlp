@@ -62,6 +62,7 @@ Ontonotes release 4.0/5.0<br>
 [google](https://github.com/google-research/bert)<br>
 
 ## Dependency Parsing
+[Efficient Second-Order TreeCRF for Neural Dependency Parsing](https://www.aclweb.org/anthology/2020.acl-main.302/) -SoochowUniversity, ACL2020<br>
 [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) -Stanford, ICLR2017<br>
 
 ### database
