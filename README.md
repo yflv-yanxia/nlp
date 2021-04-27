@@ -61,12 +61,18 @@ Ontonotes release 4.0/5.0<br>
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)<br>
 [google](https://github.com/google-research/bert)<br>
 
+## Dependency Parsing
+[Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) -Stanford, ICLR2017<br>
+
+### database
+
+### pretrain models
+[baidu/DDParser](https://github.com/baidu/DDParser)<br>
+[HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp)<br>
+[spacy](https://spacy.io/)<br>
+[stanza](https://stanfordnlp.github.io/stanza/)<br>
 
 
-
-## sentence relation
-
-## database
 ### dict
 CLUECorpus2020
 Google原始中文词表
