@@ -38,6 +38,7 @@
 [CoQA]<br>
 
 ## NER
+[A survey on deep learning for named entity recognition](https://arxiv.org/abs/1812.09449) -TKDE2020<br>
 
 ### database
 Ontonotes release 4.0/5.0<br>
