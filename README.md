@@ -10,6 +10,7 @@
 [comparision](https://en.wikipedia.org/wiki/Comparison_of_regular-expression_engines)<br>
 
 ## LAC
+[Chinese Lexical Analysis with Deep Bi-GRU-CRF Network](https://arxiv.org/abs/1807.01882v1) -baidu, arxiv2018<br>
 
 ### pretrain models
 [thulac]<br>
