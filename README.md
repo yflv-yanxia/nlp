@@ -75,6 +75,9 @@
 [spacy](https://spacy.io/)<br>
 [stanza](https://stanfordnlp.github.io/stanza/)<br>
 
+## Post Editing
+[FELIX: Flexible Text Editing Through Tagging and Insertion](https://www.aclweb.org/anthology/2020.findings-emnlp.111/) -google, EMNLP2020<br>
+[Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187) -google, EMNLP2019<br>
 
 ### dict
 CLUECorpus2020
