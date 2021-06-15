@@ -78,6 +78,7 @@
 ## Post Editing
 [FELIX: Flexible Text Editing Through Tagging and Insertion](https://www.aclweb.org/anthology/2020.findings-emnlp.111/) -google, EMNLP2020<br>
 [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) -bytedance, arxiv2020<br>
+[SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://arxiv.org/abs/2004.14166) -alibaba, ACL2020<br>
 [Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187) -google, EMNLP2019<br>
 [Levenshtein transformer](https://arxiv.org/abs/1905.11006v1) -facebook, NIPS2019<br>
 [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) -NIPS2019<br>
