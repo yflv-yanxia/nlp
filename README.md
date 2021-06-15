@@ -80,6 +80,7 @@
 [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) -bytedance, arxiv2020<br>
 [Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187) -google, EMNLP2019<br>
 [Levenshtein transformer](https://arxiv.org/abs/1905.11006v1) -facebook, NIPS2019<br>
+[Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) -NIPS2019<br>
 [A spelling correction model for end-to-end speech recognition](https://arxiv.org/abs/1902.07178) -google, ICASSP 2019<br>
 [Automatic Spelling Correction with Transformer for CTC-based End-to-End Speech Recognition](https://arxiv.org/abs/1904.10045) -alibaba, arxiv2019<br>
 
