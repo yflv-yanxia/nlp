@@ -80,6 +80,7 @@
 [FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://aclanthology.org/2021.findings-emnlp.367/) -microsoft, EMNLP2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842) -microsoft, NeurIPS2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FELIX: Flexible Text Editing Through Tagging and Insertion](https://www.aclweb.org/anthology/2020.findings-emnlp.111/) -google, EMNLP2020<br>
+[Seq2Edits: Sequence transduction using span-level edit operations](https://arxiv.org/abs/2009.11136) -google, EMNLP2020<br>
 [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) -bytedance, arxiv2020<br>
 [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://arxiv.org/abs/2004.14166) -alibaba, ACL2020<br>
 [Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187) -google, EMNLP2019<br>
