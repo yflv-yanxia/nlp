@@ -76,6 +76,7 @@
 [stanza](https://stanfordnlp.github.io/stanza/)<br>
 
 ## Post Editing
+[Softcorrect: Error correction with soft detection for automatic speech recognition](https://ojs.aaai.org/index.php/AAAI/article/view/26531) -microsoft, AAAI2023<br>
 [FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://aclanthology.org/2021.findings-emnlp.367/) -microsoft, EMNLP2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842) -microsoft, NeurIPS2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FELIX: Flexible Text Editing Through Tagging and Insertion](https://www.aclweb.org/anthology/2020.findings-emnlp.111/) -google, EMNLP2020<br>
