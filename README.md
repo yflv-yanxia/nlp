@@ -76,6 +76,7 @@
 [stanza](https://stanfordnlp.github.io/stanza/)<br>
 
 ## Post Editing
+[A survey on non-autoregressive generation for neural machine translation and beyond](https://ieeexplore.ieee.org/abstract/document/10129160) -msra, PAMI2023<br>
 [Hierarchical Context Tagging for Utterance Rewriting](https://ojs.aaai.org/index.php/AAAI/article/view/21331) -tencent, AAAI2022<br>
 [Text generation with text-editing models](https://arxiv.org/abs/2206.07043) -NAACL2022
 [EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start](https://arxiv.org/abs/2205.12209) -google, EMNLP2022<br>
