@@ -76,6 +76,10 @@
 [stanza](https://stanfordnlp.github.io/stanza/)<br>
 
 ## Post Editing
+[Hierarchical Context Tagging for Utterance Rewriting](https://ojs.aaai.org/index.php/AAAI/article/view/21331) -tencent, AAAI2022<br>
+[Text generation with text-editing models](https://arxiv.org/abs/2206.07043) -NAACL2022
+[EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start](https://arxiv.org/abs/2205.12209) -google, EMNLP2022<br>
+[LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer](https://aclanthology.org/2021.findings-acl.344/) -ACL2021<br>
 [Softcorrect: Error correction with soft detection for automatic speech recognition](https://ojs.aaai.org/index.php/AAAI/article/view/26531) -microsoft, AAAI2023<br>
 [FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://aclanthology.org/2021.findings-emnlp.367/) -microsoft, EMNLP2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842) -microsoft, NeurIPS2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
