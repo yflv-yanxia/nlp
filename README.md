@@ -78,13 +78,13 @@
 ## Post Editing
 [A survey on non-autoregressive generation for neural machine translation and beyond](https://ieeexplore.ieee.org/abstract/document/10129160) -msra, PAMI2023<br>
 [Hierarchical Context Tagging for Utterance Rewriting](https://ojs.aaai.org/index.php/AAAI/article/view/21331) -tencent, AAAI2022<br>
-[Text generation with text-editing models](https://arxiv.org/abs/2206.07043) -NAACL2022
-[EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start](https://arxiv.org/abs/2205.12209) -google, EMNLP2022<br>
+[Text generation with text-editing models](https://arxiv.org/abs/2206.07043) -NAACL2022<br>
+[EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start](https://arxiv.org/abs/2205.12209) -google, EMNLP2022, [code](https://edit5.page.link/code)<br>
 [LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer](https://aclanthology.org/2021.findings-acl.344/) -ACL2021<br>
 [Softcorrect: Error correction with soft detection for automatic speech recognition](https://ojs.aaai.org/index.php/AAAI/article/view/26531) -microsoft, AAAI2023<br>
-[FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://aclanthology.org/2021.findings-emnlp.367/) -microsoft, EMNLP2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
+[FastCorrect2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://aclanthology.org/2021.findings-emnlp.367/) -microsoft, EMNLP2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842) -microsoft, NeurIPS2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
-[FELIX: Flexible Text Editing Through Tagging and Insertion](https://www.aclweb.org/anthology/2020.findings-emnlp.111/) -google, EMNLP2020<br>
+[FELIX: Flexible Text Editing Through Tagging and Insertion](https://www.aclweb.org/anthology/2020.findings-emnlp.111/) -google, EMNLP2020, [code](https://github.com/google-research/google-research/tree/master/felix)<br>
 [Seq2Edits: Sequence transduction using span-level edit operations](https://arxiv.org/abs/2009.11136) -google, EMNLP2020<br>
 [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) -bytedance, arxiv2020<br>
 [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://arxiv.org/abs/2004.14166) -alibaba, ACL2020<br>
