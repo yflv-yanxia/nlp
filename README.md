@@ -78,6 +78,7 @@
 ## Post Editing
 [A survey on non-autoregressive generation for neural machine translation and beyond](https://ieeexplore.ieee.org/abstract/document/10129160) -msra, PAMI2023, [linker](https://github.com/LitterBrother-Xiao/Overview-of-Non-autoregressive-Applications)<br>
 [Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation](https://arxiv.org/abs/2304.11791) -tsinghua, ACL2023, [code](https://github.com/thu-coai/DA-Transformer)<br>
+[Directed Acyclic Transformer for Non-Autoregressive Machine Translation](https://arxiv.org/abs/2205.07459) -bytedance, ICML2022<br>
 [Hierarchical Context Tagging for Utterance Rewriting](https://ojs.aaai.org/index.php/AAAI/article/view/21331) -tencent, AAAI2022<br>
 [Text generation with text-editing models](https://arxiv.org/abs/2206.07043) -NAACL2022<br>
 [EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start](https://arxiv.org/abs/2205.12209) -google, EMNLP2022, [code](https://edit5.page.link/code)<br>
