@@ -83,6 +83,7 @@
 [Text generation with text-editing models](https://arxiv.org/abs/2206.07043) -NAACL2022<br>
 [EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start](https://arxiv.org/abs/2205.12209) -google, EMNLP2022, [code](https://edit5.page.link/code)<br>
 [LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer](https://aclanthology.org/2021.findings-acl.344/) -ACL2021<br>
+[LayoutReader: Pre-training of Text and Layout for Reading Order Detection](https://arxiv.org/abs/2108.11591) -EMNLP2021, [code&dataset](https://github.com/microsoft/unilm/tree/master/layoutreader)<br>
 [Softcorrect: Error correction with soft detection for automatic speech recognition](https://ojs.aaai.org/index.php/AAAI/article/view/26531) -microsoft, AAAI2023<br>
 [FastCorrect2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://aclanthology.org/2021.findings-emnlp.367/) -microsoft, EMNLP2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
 [FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition](https://arxiv.org/abs/2105.03842) -microsoft, NeurIPS2021, [code](https://github.com/microsoft/NeuralSpeech)<br>
